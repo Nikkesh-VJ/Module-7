@@ -1,3 +1,9 @@
+#19CS301-Module7
+
+- **Name:** Nikkesh V
+- **Register Number:** 212222050042
+
+
 # 19CS301-Module7
 EX: 7.1 RECURSION
 ### Aim: To Write a Python Program to find the sum of all digits in a number using recursion
@@ -25,6 +31,9 @@ print(sum)
 ![image](https://github.com/user-attachments/assets/50acc657-266e-46e6-ab17-10358494e26c)
 
 ### Result: Thus, the given program is implemented and executed successfully .
+
+
+
  
 
 EX: 7.2 TYPES OF RECURSIONS
@@ -90,6 +99,8 @@ print(series(x,n))
 
  
 ### Result: Thus, the given program is implemented and executed successfully .
+
+
  
 
 EX: 7.4 Solve by recursion relation
@@ -132,4 +143,3 @@ else:
 
 ### Result: Thus, the given program is implemented and executed successfully .
  
-
